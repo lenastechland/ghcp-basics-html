@@ -63,7 +63,7 @@ Create an html file that has all the basic elements to get started with the gall
 
 You can have a look at your html file in the browser by right clicking on the file and selecting `Open with Live Server`.
 
-![./images/1.png](./images/1.png)
+![./images/1.png](./assets/live-server.png)
 
 ## Adding images to the gallery
 
