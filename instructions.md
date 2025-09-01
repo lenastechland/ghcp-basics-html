@@ -7,7 +7,7 @@ This exercise will help you create a simple image gallery with animations using 
 <!-- ONE SENTENCE ABOUT THE GOAL OF THE EXERCISE -->
 The image gallery should look and behave like the following example:
 
-![Example](./images/preview.gif)
+![Example](./assets/preview.mov)
 
 
 ## ✍️ Programming Languages
